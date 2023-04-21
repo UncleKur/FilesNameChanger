@@ -1,0 +1,1 @@
+This program will help you to fast rename all files in folder (like a thousands photo)
